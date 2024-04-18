@@ -1,0 +1,13 @@
+#Fix the code below 
+
+#print(Day 1 - String Manipulation")
+#print("String Concenation is done with the "+" sign.")
+  #print('e.g. print("Hello" + " world")')
+#print(("New lines can be created with a backelash and n.")
+
+#answer
+
+print("Day 1 - String Manipulation")
+print('String Concenation is done with the "+" sign.')
+print('e.g. print("Hello" + "world")')
+print("New lines can be created with a backelash and n.")
