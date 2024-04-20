@@ -1,0 +1,29 @@
+#Data Types
+
+#1 String 
+
+"Hello"[4]
+
+print("hello" + "world")
+
+#2 Integer
+
+print(120 + 32659)
+
+#Large Integers
+#342,654,896
+#but in the python we use this way
+
+342_654_896
+
+#Float
+3.14159
+
+#Floating Point Number
+3141.59
+
+#Boolean 
+#"" no this sign only True and Flse
+
+True
+False
