@@ -1,6 +1,6 @@
-from replit import clear
+from replit import clear # type: ignore
 
-from art import logo
+from art import logo # type: ignore
 
 print(logo)
 
